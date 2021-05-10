@@ -15,6 +15,7 @@ namespace Carrefour.Services.Interface
         Task<ICollection<Transaction>> GetRedeemableTransactions();
         Task<ICollection<Transaction>> GetCustomerBalance(int ID);
         Task<ICollection<Transaction>> GetRedeemedBalance(int ID);
+        Task<int> GetCustomerTotalBalance(int ID);
         Task DeleteTransaction(int id);
     }
 }

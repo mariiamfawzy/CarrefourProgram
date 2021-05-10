@@ -60,6 +60,13 @@ namespace Carrefour.Repository.Repositories.Class
             return await _dbContext.Transactions.AsNoTracking().Where(x => x.CustomerID == ID && x.CreatedDate <= System.DateTime.Now.AddDays(90)).ToListAsync();
         }
 
+        public async Task<int> GetCustomerTotalBalance(int ID)
+        {
+
+            var sum = await _dbContext.Transactions.AsNoTracking().Where(x => x.CustomerID == ID && x.CreatedDate <= System.DateTime.Now.AddDays(90)).SumAsync(x => x.XPoints);
+            return sum;
+        }
+
         public async Task<ICollection<Transaction>> GetRedeemedBalance(int ID)
         {
             return await _dbContext.Transactions.AsNoTracking().Where(x => x.CustomerID == ID && x.CreatedDate <= System.DateTime.Now.AddDays(90)).ToListAsync();

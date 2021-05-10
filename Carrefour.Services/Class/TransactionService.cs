@@ -116,5 +116,30 @@ namespace Carrefour.Services.Class
                 throw;
             }
         }
+        public async Task<int> GetCustomerTotalBalance(int ID)
+        {
+            try
+            {
+                return await _transactionRepository.GetCustomerTotalBalance(ID);
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+        }
+
+        public async Task<ICollection<Transaction>> GetRedeemedBalance(int ID)
+        {
+            try
+            {
+                return await _transactionRepository.GetRedeemedBalance(ID);
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+        }
     }
 }

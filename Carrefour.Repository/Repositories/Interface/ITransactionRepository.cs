@@ -17,6 +17,7 @@ namespace Carrefour.Repository.Repositories.Interface
         Task<ICollection<Transaction>> GetCustomerBalance(int ID);
 
         Task<ICollection<Transaction>> GetRedeemedBalance(int ID);
+        Task<int> GetCustomerTotalBalance(int ID);
         Task Save();
     }
 }
