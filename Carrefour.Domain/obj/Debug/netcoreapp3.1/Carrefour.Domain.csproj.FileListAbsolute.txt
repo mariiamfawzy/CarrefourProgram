@@ -1,0 +1,12 @@
+C:\Users\Administrator\Source\Repos\Carrefour.Domain\bin\Debug\netcoreapp3.1\Carrefour.Domain.deps.json
+C:\Users\Administrator\Source\Repos\Carrefour.Domain\bin\Debug\netcoreapp3.1\Carrefour.Domain.dll
+C:\Users\Administrator\Source\Repos\Carrefour.Domain\bin\Debug\netcoreapp3.1\Carrefour.Domain.pdb
+C:\Users\Administrator\Source\Repos\Carrefour.Domain\obj\Debug\netcoreapp3.1\Carrefour.Domain.csprojAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\Carrefour.Domain\obj\Debug\netcoreapp3.1\Carrefour.Domain.AssemblyInfoInputs.cache
+C:\Users\Administrator\Source\Repos\Carrefour.Domain\obj\Debug\netcoreapp3.1\Carrefour.Domain.AssemblyInfo.cs
+C:\Users\Administrator\Source\Repos\Carrefour.Domain\obj\Debug\netcoreapp3.1\Carrefour.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\Carrefour.Domain\obj\Debug\netcoreapp3.1\Carrefour.Domain.dll
+C:\Users\Administrator\Source\Repos\Carrefour.Domain\obj\Debug\netcoreapp3.1\Carrefour.Domain.pdb
+C:\Users\Administrator\Source\Repos\Carrefour.Domain\bin\Debug\netcoreapp3.1\Carrefour.Domain.runtimeconfig.json
+C:\Users\Administrator\Source\Repos\Carrefour.Domain\bin\Debug\netcoreapp3.1\Carrefour.Domain.runtimeconfig.dev.json
+C:\Users\Administrator\Source\Repos\Carrefour.Domain\obj\Debug\netcoreapp3.1\Carrefour.Domain.genruntimeconfig.cache

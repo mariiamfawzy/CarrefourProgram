@@ -1,0 +1,15 @@
+C:\Users\Administrator\Source\Repos\Carrefour.Repository\bin\Debug\netcoreapp3.1\Carrefour.Domain.dll
+C:\Users\Administrator\Source\Repos\Carrefour.Repository\obj\Debug\netcoreapp3.1\Carrefour.Repository.csprojAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\Carrefour.Repository\obj\Debug\netcoreapp3.1\Carrefour.Repository.AssemblyInfoInputs.cache
+C:\Users\Administrator\Source\Repos\Carrefour.Repository\obj\Debug\netcoreapp3.1\Carrefour.Repository.AssemblyInfo.cs
+C:\Users\Administrator\Source\Repos\Carrefour.Repository\bin\Debug\netcoreapp3.1\Carrefour.Repository.deps.json
+C:\Users\Administrator\Source\Repos\Carrefour.Repository\bin\Debug\netcoreapp3.1\Carrefour.Repository.dll
+C:\Users\Administrator\Source\Repos\Carrefour.Repository\bin\Debug\netcoreapp3.1\Carrefour.Repository.pdb
+C:\Users\Administrator\Source\Repos\Carrefour.Repository\bin\Debug\netcoreapp3.1\Carrefour.Domain.pdb
+C:\Users\Administrator\Source\Repos\Carrefour.Repository\obj\Debug\netcoreapp3.1\Carrefour.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\Carrefour.Repository\obj\Debug\netcoreapp3.1\Carrefour.Repository.csproj.CopyComplete
+C:\Users\Administrator\Source\Repos\Carrefour.Repository\obj\Debug\netcoreapp3.1\Carrefour.Repository.dll
+C:\Users\Administrator\Source\Repos\Carrefour.Repository\obj\Debug\netcoreapp3.1\Carrefour.Repository.pdb
+C:\Users\Administrator\Source\Repos\Carrefour.Repository\bin\Debug\netcoreapp3.1\Carrefour.Repository.runtimeconfig.json
+C:\Users\Administrator\Source\Repos\Carrefour.Repository\bin\Debug\netcoreapp3.1\Carrefour.Repository.runtimeconfig.dev.json
+C:\Users\Administrator\Source\Repos\Carrefour.Repository\obj\Debug\netcoreapp3.1\Carrefour.Repository.genruntimeconfig.cache
